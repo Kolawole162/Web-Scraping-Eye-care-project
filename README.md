@@ -1,4 +1,3 @@
-# Web Scraping Eye Care Project
 # Eyewear Product Web Scraping
 
 Python scrapers that collect eyeglasses product data from eyewear retail websites and save it as clean CSV and JSON files.
